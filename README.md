@@ -44,8 +44,7 @@
 <hr>
 <h2>Sobre mim</h2>
 <span id="sobre">
-<p align="center"><img src="./img/thiago_background_logo_400px.png
-" width="50%"></img></p>
+<p align="center"><img src="./img/thiago_background_logo_400px.png" width="50%"></img>
 <p align="justify">
 Meu nome é Thiago Zani e estou atualmente em transição de carreira, trazendo uma bagagem diversificada e uma paixão por aprendizado contínuo. Sou formado em Educação Física pela Unesp de Bauru, onde adquiri uma sólida base em educação e prática esportiva. Ao longo da minha jornada, tive o privilégio de atuar como professor de Educação Física na rede pública de ensino do estado de São Paulo, além de experiências enriquecedoras nos colégios Univap - Unidade Aquarius e Centro.
 
