@@ -44,7 +44,7 @@
 <hr>
 <h2>Sobre mim</h2>
 <span id="sobre">
-<p align="center"><img src="https://github.com/zani19/PortfolioGit/assets/111464795/802daa78-22b9-4e7e-84b1-9d5d2c4cec82
+<p align="center"><img src="./img/thiago_background_logo_400px.png
 " width="50%"></p>
 <p align="justify">
 Meu nome é Thiago Zani e estou atualmente em transição de carreira, trazendo uma bagagem diversificada e uma paixão por aprendizado contínuo. Sou formado em Educação Física pela Unesp de Bauru, onde adquiri uma sólida base em educação e prática esportiva. Ao longo da minha jornada, tive o privilégio de atuar como professor de Educação Física na rede pública de ensino do estado de São Paulo, além de experiências enriquecedoras nos colégios Univap - Unidade Aquarius e Centro.
@@ -373,4 +373,4 @@ Durante o projeto, desempenhei o papel crucial de desenvolvedor FrontEnd, assumi
 <br>
 </div>
 <br>
-<p><a href="#sumario">Voltar para o início</a></p>
+<p><a href="#sumario">Voltar ao início</a></p>
